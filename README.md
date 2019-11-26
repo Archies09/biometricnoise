@@ -1,5 +1,5 @@
 # biometricnoise
-Noise based security for biometric authentication
+Noise based security for biometric authentication (still in progress)
 
 Phase 1 : Synthetic data preparation (DONE)
 
